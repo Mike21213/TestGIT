@@ -1,0 +1,7 @@
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+
+1. Create User
+2. Clone Repository from GitHub
+3. Add Files
+4. git status
+5. Commit 
